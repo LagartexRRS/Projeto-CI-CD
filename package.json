@@ -1,0 +1,12 @@
+{
+  "name": "lista-tarefas",
+  "version": "1.0.0",
+  "description": "Site simples com testes automatizados usando Jest e CI/CD no GitHub Actions",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
